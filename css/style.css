@@ -97,17 +97,7 @@ footer.page-footer
 {
 	background-color:#ab47bc ;
 }
-.jkl:hover
-{
-  color:Blue;
-}
-.jkl
-{
-  height:150px;
-  margin:0 auto;
-  border:1px solid white;
-  border-radius:4px;
-}
+
 /*.ttabb
 {
    border-bottom:1px solid purple;
@@ -121,6 +111,26 @@ footer.page-footer
 }
 
 
+/* search_result.html CSS  */
 
+.jkl:hover
+{
+  color:Blue;
+}
+.jkl
+{
+  height:100px;
+  margin:0 auto;
+  border:1px solid white;
+  border-radius:4px;
+}
+.pxc{
+  
+  height:200px;
+  border:1px solid grey;
+  border-radius:4px;margin-top:50px;
+  margin-left:50px;
+}
+/* search_result.html CSS  */
 
 
